@@ -7,7 +7,7 @@
 - j' ai ajouter des recettes, cocktails, musiques africaines différentes et même des activités aussi histoire de diversifier les cultures.
 Pour la connexion avec tally j'ai remarqué que Notion ne mettait plus à disposition de connecter avec tally donc j'ai fait sans.
 
--Ensuite, j'ai  mis  à côté du calendrier un bouton pour créer un évenement dénomer « paiya » qui est une appelation typique de quelques soirées festive en Côte d'ivoire.
+- Ensuite, j'ai  mis  à côté du calendrier un bouton pour créer un évenement dénomer « paiya » qui est une appelation typique de quelques soirées festive en Côte d'ivoire.
 
 # Le lien de ma page Notion
 
