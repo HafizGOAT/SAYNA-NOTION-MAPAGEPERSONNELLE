@@ -7,6 +7,7 @@ j'y ai ajouter des recettes différentes et même des cocktails
  pour la connexion avec tally j'ai remarqué que Notion ne mettait plus à disposition de connecter avec tally donc j'ai fait sans 
 j'ai aussi ajouté des playlist moderne d'artiste en vogue actuellement
 j'ai ajouté mis juste à côté du calendrier un bouton pour créer un évenement dénomer paiya qui est une appelation typique de soirée festive en Côte d'ivoire
+j'ai eu a réaliser un logo personnel pour y laisser mon identité
 
 # Le lien de ma page Notion
 
